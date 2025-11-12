@@ -116,7 +116,7 @@ Example conversation:
 
 <img width="1538" height="789" alt="Screenshot 2025-11-11 191522" src="https://github.com/user-attachments/assets/c2f18d5a-5b15-477e-9646-1946196e8c21" />
 
-Artificial intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems, using algorithms trained on data. It includes reasoning, learning, and perception.
+
 
 🧾 License
 
