@@ -2,7 +2,8 @@
 A Retrieval-Augmented Generation (RAG) app using LangChain, ChromaDB, Sentence Transformers, and Groq’s LLM to answer questions strictly from your PDF or text documents—ensuring factual, document-grounded responses with zero hallucination.
 
 ## Project Structure
-RAG-Based-AI-Assistant/
+
+```RAG-Based-AI-Assistant/
 │
 ├── .venv/                        # Virtual environment (not pushed to GitHub)
 │
@@ -22,3 +23,4 @@ RAG-Based-AI-Assistant/
 ├── LICENSE                       # License file
 │
 └── requirements.txt              # Python dependencies
+```
